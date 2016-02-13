@@ -3,6 +3,5 @@
 	"EntryPoint": "CoasterCam.Main",
 	"IsDevelopment": true,
 	"Name": "Coaster Cam",
-	"Project": "CoasterCam.csproj",
-	"CompilerVersion": "v3.5"
+	"Project": "CoasterCam.csproj"
 }
